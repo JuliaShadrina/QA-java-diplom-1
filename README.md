@@ -1,4 +1,4 @@
-#Первая часть дипломного проекта QA-java
+# Первая часть дипломного проекта QA-java
 
 Код юнит-тестов на Java для проекта Яндекс.Практикума
 [Stellar Burgers](https://stellarburgers.nomoreparties.site)
